@@ -1,2 +1,17 @@
-# weather-forecast
- This weather forecast application is built using HTML, CSS, and JavaScript. The application allows users to search for current weather information by city name, using the OpenWeatherMap API. It displays the temperature, weather description, maximum and minimum temperatures, humidity, and wind speed.
+# Weather Forecast Application
+
+This project is a weather forecast application that allows users to search for current weather information by city name. It fetches data from the OpenWeatherMap API and displays temperature, weather conditions, humidity, and wind speed.
+
+# Features
+
+- Responsive design with a clean and modern user interface.
+- Real-time weather data fetched from the OpenWeatherMap API.
+- Displays temperature, weather conditions, humidity, and wind speed for the searched city.
+- Provides visual feedback when the city is not found or when the input field is empty.
+
+# Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- [OpenWeatherMap API](https://openweathermap.org/api)
