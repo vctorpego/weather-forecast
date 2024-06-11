@@ -2,10 +2,6 @@
 
 This project is a weather forecast application that allows users to search for current weather information by city name. It fetches data from the OpenWeatherMap API and displays temperature, weather conditions, humidity, and wind speed.
 
-# You can view the live application
-
-(https://vctorpego.github.io/weather-forecast/)
-
 # Features
 
 - Responsive design with a clean and modern user interface.
