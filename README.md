@@ -4,7 +4,7 @@ This project is a weather forecast application that allows users to search for c
 
 # You can view the live application
 
-(https://vctorpego.github.io/weather-forecast/).
+(https://vctorpego.github.io/weather-forecast/)
 
 # Features
 
